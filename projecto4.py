@@ -1,7 +1,7 @@
 import requests
 
 # Configura tu API key de TMDb
-API_KEY = "TU_API_KEY"
+API_KEY = "a614f104552b03f1665eba5a038abcaa"
 
 def obtener_rating_pelicula(pelicula):
     # Realiza una solicitud para buscar la película en TMDb
